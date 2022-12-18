@@ -1,7 +1,12 @@
-![trophy](https://github-profile-trophy.vercel.app/?MG61=ryo-ma&theme=discord&no-bg=true&no-frame=true)
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=MG61&theme=github_dark)](https://github.com/MG61/github-profile-trophy&theme)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?MG61=apploidx&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?MG61=apploidx&theme=github_dark)
+## Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MG61&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MG61&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MG61&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MG61&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MG61&theme=github_dark)
 <br/>
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
