@@ -20,13 +20,7 @@
 <img align="left" alt="Intellij_idea" width="40px" src="https://img.icons8.com/color/512/intellij-idea.png" />
 <img align="left" alt="Visual_Studio" width="40px" src="https://img.icons8.com/fluency/512/visual-studio.png" />
 <img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-<img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-<img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-<img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-<img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-<img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-<img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-<img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
+<br/>
 <br/>
 
 ## Feedback
