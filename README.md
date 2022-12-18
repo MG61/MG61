@@ -1,9 +1,7 @@
-### Hi there 👋
+![trophy](https://github-profile-trophy.vercel.app/?MG61=ryo-ma&theme=discord&no-bg=true&no-frame=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&no-bg=true&no-frame=true)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apploidx&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apploidx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?MG61=apploidx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?MG61=apploidx&theme=github_dark)
 <br/>
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
