@@ -22,8 +22,7 @@
 <img align="left" alt="Visual_Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
 <br/>
 
-[vk]: https://vk.com/uain33
+## Feedback
+<img align="left" alt="https://vk.com/uain33" width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vk_icon_130793.png" />
 
-
-<hr/>
 
