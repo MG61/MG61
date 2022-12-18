@@ -1,5 +1,5 @@
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=MG61&theme=github_dark)](https://github.com/MG61/github-profile-trophy&theme)
+![trophy](https://github-profile-trophy.vercel.app/?username=MG61&theme=darkhub)
 
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MG61&theme=github_dark)
