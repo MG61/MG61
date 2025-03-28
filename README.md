@@ -23,8 +23,5 @@
 <br/>
 <br/>
 
-## Feedback
-<img align="left" alt="Vk" width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vk_icon_130793.png" /> https://vk.com/uain33
-
 ## My portfolio
 https://portfolioniab.ru/
