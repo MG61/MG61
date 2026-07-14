@@ -1,9 +1,3 @@
-## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MG61&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MG61&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MG61&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MG61&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MG61&theme=github_dark)
 <br/>
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
