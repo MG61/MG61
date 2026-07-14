@@ -1,7 +1,4 @@
-<br/>
-
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
-
 <img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />
 <img align="left" alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
