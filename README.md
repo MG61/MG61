@@ -1,5 +1,3 @@
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=MG61&theme=city&footer=your@email.com&show_icons=true&title=Your%20name&description=Your%21description&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
-
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 <img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />
 <img align="left" alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
